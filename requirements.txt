@@ -1,8 +1,4 @@
-Flask
-opencv-python
-numpy
-tensorflow
-
-Flask==2.0.1
-tensorflow==2.6.0
-
+Flask==3.0.3
+opencv-python==4.10.0.84
+numpy==2.1.1
+tensorflow==2.16.0  # 2.6.0から新しいバージョンに変更
